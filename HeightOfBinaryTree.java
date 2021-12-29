@@ -1,5 +1,8 @@
 import java.util.*;
 import java.io.*;
+/*
+*Complete the getHeight or height function in the editor. It must return the height of a binary tree as an integer.
+*/
 
 //Class provided by HackerRank
 class Node {
